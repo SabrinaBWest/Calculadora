@@ -12,8 +12,7 @@ Este é um projeto de uma calculadora básica desenvolvida em Java. A calculador
 ### Tecnologias Utilizadas
 
 - Linguagem de Programação: Java
-- IDE: Eclipse/IntelliJ IDEA/Outra
-- Ferramentas de Construção: Maven/Gradle (se aplicável)
+- IDE: IntelliJ
 - Controle de Versão: Git
 
 ### Estrutura do Projeto
